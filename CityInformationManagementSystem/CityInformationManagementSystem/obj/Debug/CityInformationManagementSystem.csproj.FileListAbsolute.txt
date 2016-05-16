@@ -1,0 +1,12 @@
+C:\Users\Web App Develop .Net\Desktop\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\obj\Debug\CityInformationManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\bin\CityInformationManagementSystem.dll.config
+C:\Users\Web App Develop .Net\Desktop\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\bin\CityInformationManagementSystem.dll
+C:\Users\Web App Develop .Net\Desktop\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\bin\CityInformationManagementSystem.pdb
+C:\Users\Web App Develop .Net\Desktop\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\obj\Debug\CityInformationManagementSystem.dll
+C:\Users\Web App Develop .Net\Desktop\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\obj\Debug\CityInformationManagementSystem.pdb
+C:\Users\EiD\Desktop\BITM\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\bin\CityInformationManagementSystem.dll.config
+C:\Users\EiD\Desktop\BITM\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\bin\CityInformationManagementSystem.dll
+C:\Users\EiD\Desktop\BITM\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\bin\CityInformationManagementSystem.pdb
+C:\Users\EiD\Desktop\BITM\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\obj\Debug\CityInformationManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\EiD\Desktop\BITM\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\obj\Debug\CityInformationManagementSystem.dll
+C:\Users\EiD\Desktop\BITM\BITMM\CityInformationManagementSystem\CityInformationManagementSystem\obj\Debug\CityInformationManagementSystem.pdb
